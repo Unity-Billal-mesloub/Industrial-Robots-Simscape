@@ -1,5 +1,4 @@
 # **Industrial Robot Models in Simscape**
-Copyright 2023 The MathWorks, Inc.
 
 ![](Scripts/Images/sm_industrial_robots_overview_image_ribbon.png)
 
@@ -24,3 +23,4 @@ To learn more about modeling and simulation with Simscape, please visit:
    * [Simscape Electrical](https://www.mathworks.com/products/simscape-electrical.html)
    * [Simscape Fluids](https://www.mathworks.com/products/simscape-fluids.html)
    * [Simscape Multibody](https://www.mathworks.com/products/simscape-multibody.html)
+
